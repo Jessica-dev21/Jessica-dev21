@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando ADS 2º Semestre<br>Sou estudante de Front end<br>Estou a procura de Estágio<br>Estudando HTML e CSS
+Cursando ADS 4º Semestre<br>Sou estudante de Front end<br>Estou a procura de Estágio<br>Estudando HTML5, CSS3 e JS
 
 
 ## 🌐 Socials:
